@@ -54,7 +54,7 @@ Procuro novos desafios onde eu possa demonstrar valor para a equipe e para a emp
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=danieldribeiro&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=caiocapua&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
@@ -70,7 +70,7 @@ Procuro novos desafios onde eu possa demonstrar valor para a equipe e para a emp
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=danieldribeiro&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=caiocapua&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -81,7 +81,7 @@ Procuro novos desafios onde eu possa demonstrar valor para a equipe e para a emp
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
+    src="https://profile-counter.glitch.me/caiocapua/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
