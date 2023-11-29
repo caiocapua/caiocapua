@@ -46,7 +46,7 @@ Procuro novos desafios onde eu possa demonstrar valor para a equipe e para a emp
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocapua&theme=dark&include_all_commits=true&count_private=true&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocapua&theme=dark&include_all_commits=true&hide_border=false"
         alt="Github stats"
       />
     </td>
